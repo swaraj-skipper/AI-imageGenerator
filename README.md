@@ -11,9 +11,13 @@ Open the terminal and run the following commands
 
 ## Get your own API KEY
 Visit OpenAI official website
+
 Sign up
+
 Get API key
+
 Free $5 credit will be provided
+
 Keey it Secret
 
 ## Run
