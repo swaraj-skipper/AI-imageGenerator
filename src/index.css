@@ -1,3 +1,77 @@
 body{
-    background-color: gray;
+    background-color: black;
+    background-image: url("https://images.unsplash.com/photo-1519744792095-2f2205e87b6f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1171&q=80");
 }
+
+.App{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: white;
+    
+}
+
+.inp{
+    background-color: black;
+    text-decoration: dotted;
+    color:white;
+    padding: 10px;
+    border: 2px solid #339DFF;
+    border-radius: 2px;
+    margin: 5px;
+}
+
+
+b {
+  position: relative;
+  display: block;
+  font-family: helvetica neue, helvetica, sans-serif;
+  line-height: 1.15em;
+  margin-top: -1.15em;
+  top: 2.3em;
+  font-size: 0.87em;
+  font-weight: 400;
+  letter-spacing: 0.025em;
+  opacity: 0.75;
+  text-align: center;
+}
+
+b span {
+  font-size: 0.785em;
+  font-weight: 400;
+  opacity: 0.4;
+}
+
+.btn {
+  display: inline-block;
+  margin: 10px;
+  background: #339DFF;
+  color: #fff;
+  text-decoration: none;
+  font-size: 13px;
+  line-height: 38px;
+  border-radius: 50px;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+  width: 100px;
+  text-align: center;
+  border: 2px solid #339DFF;
+}
+
+.btn:hover {
+  background: #fff;
+  color: #339DFF;
+  box-shadow: 0 4px 4px rgba(83, 100, 255, 0.32);
+}
+
+.img{
+  padding: 10px;
+  border: 2px white solid;
+}
+/* .image:hover{
+    width: 500px;
+    height: 500px;
+    transition: all 0.3s;
+    
+} */
