@@ -23,4 +23,6 @@ Keey it Secret
 ## Run
 ### `npm start`
 
-
+## Screenshots
+![Screenshot (7)](https://github.com/swaraj-skipper/AI-imageGenerator/assets/76423625/f6fdf424-a33b-4ba5-b68e-ee92f37931cf)
+![Screenshot (8)](https://github.com/swaraj-skipper/AI-imageGenerator/assets/76423625/4e09958d-6d1c-4d99-8337-681748a50233)
